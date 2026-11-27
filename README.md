@@ -1,3 +1,1 @@
-# hardhat tron deploy
-
-`TCjftgZQjhFBnohoQiRjLgjZEazGSiHccu`
+TCjftgZQjhFBnohoQiRjLgjZEazGSiHccu
